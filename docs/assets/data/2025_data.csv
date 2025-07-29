@@ -1,0 +1,137 @@
+Sl_No,Date,Company_Visited,Type_of_Offer,No_of_Eligible_Students,No_of_Students_Applied,Status,Annual_CTC_Offered,CST,ETC,EE,IT,ME,CE,MET,MIN,ARC,AERO,Extra_0
+1,,Siemens EDA India Pvt. Ltd.,PPO,,,Offered,24.01,1,0,0,0,0,0,0,0,0,0,
+2,,Microsoft India,PPO,,,Offered,56,0,0,0,3,0,0,0,0,0,0,
+3,,Texas Instruments India Pvt. Ltd.,PPO,,,Offered,38.53,1,5,0,0,0,0,0,0,0,0,
+4,,Wells Fargo EGS,PPO,,,Offered,24,7,1,0,3,0,0,0,0,0,0,
+5,,Accenture,PPO,,,Offered,11.89,3,1,0,4,0,0,0,0,0,0,
+6,,Goldman Sachs,PPO,,,Offered,30,0,0,0,1,0,0,0,0,0,0,
+7,,Deutsche Bank India,PPO,,,Offered,19.53,2,0,0,3,0,0,0,0,0,0,
+8,,Jindal Stainless Ltd.,PPO,,,Offered,5,0,0,0,0,1,0,2,0,0,0,
+9,,Tata Steel Utilities and Infrastructure Services Ltd,PPO,,,Offered,,0,0,0,0,0,0,2,0,0,0,
+10,,BNY Mellon,PPO,,,Offered,21.64,3,0,0,2,0,0,0,0,0,0,
+11,,PWC India,PPO,,,Offered,8.99,2,1,5,0,2,2,3,0,0,0,
+12,,JPMorgan Chase & Co.,PPO,,,Offered,19.75,1,0,0,1,0,0,0,0,0,0,
+13,,Tata Steel Ltd.,PPO,,,Offered,12.17,0,0,2,0,0,0,0,0,0,1,
+14,,TVS Credit Services Ltd.,PPO,,,Offered,8.5,0,0,0,0,0,0,1,0,0,0,
+15,,Saint-Gobain India,PPO,,,Offered,6.5,0,0,0,0,1,0,0,0,0,0,
+16,,Google India,,351,260,Offered,33.4,0,0,0,1,0,0,1,0,0,0,
+18,,Texas Instruments India Pvt. Ltd.,,248,216,Offered,38.53,1,3,1,0,0,0,0,0,0,0,
+19,,Tata Consultancy Services (NQT Hiring),,650,373,Offered,3.3-11.5,12,7,9,10,5,0,0,0,5,0,
+20,,Essar Constructions Ltd.,,172,56,Offered,5,0,0,0,0,0,0,0,0,1,0,0
+21,,LTI MindTree,,566,363,Offered,4.05,1,0,0,3,2,0,5,0,2,0,0
+22,,Alstom India Ltd.,,31,25,Offered,8.55,0,0,3,0,0,1,0,0,0,0,
+23,,WTW Group (Acclaris),,132,115,Offered,13,2,0,0,0,0,0,0,0,0,0,
+24,,DeltaX,,131,102,Completed,7,0,0,0,0,0,0,0,0,0,0,
+25,,Accordion Partners (Merilytics),,369,271,Offered,8.5,0,0,0,0,1,0,1,0,0,0,
+26,,Accenture,,535,354,Offered,11.89,5,2,0,6,0,0,4,0,0,0,0
+27,,Cognizant,,479,186,Offered,4.5-7.5,6,0,0,5,0,0,5,0,0,0,0
+28,,PWC India,,481,435,Offered,8.99-10.26,11,10,1,8,4,0,3,1,4,0,5
+29,,Larsen & Toubro Ltd. (GET),,444,354,Offered,6.75,0,0,8,0,2,0,0,0,2,0,3
+30,,Larsen & Toubro Ltd. (PGET),,22,18,Offered,6.8,0,0,3,0,0,0,0,1,0,0,
+31,,SMS India Pvt. Ltd.,,84,51,Offered,5.5,0,4,1,0,0,0,0,0,0,0,
+32,,Rashni Group,,282,118,Pending,6,0,0,0,0,0,0,0,0,0,0,
+33,,Tata Consultancy Services (R&I Hiring- UG),,230,165,Offered,9,0,0,0,1,0,0,0,0,0,0,
+34,,Tata Consultancy Services (R&I Hiring- PG),,56,40,Completed,11.5,0,0,0,0,0,0,0,0,0,0,
+35,,Technip Energies India Ltd.,,94,75,Offered,6.5,0,0,0,0,2,0,0,0,2,0,3
+36,,Synopsys India Pvt Ltd.,,299,277,Offered,21.78,0,4,0,4,0,0,0,0,0,0,
+37,,Haldia Petrochemicals Ltd.,,341,222,Offered,6.8,0,0,0,0,2,0,0,0,2,0,1
+38,,Ayesa India,,6,3,Pending,6,0,0,0,0,0,0,0,0,0,0,0
+39,,JK Tech Ltd.,,110,84,Offered,15,1,0,0,4,0,0,0,0,0,0,
+40,,Blue Star Ltd.,,127,94,Offered,6.17,0,0,0,0,1,0,0,1,0,0,
+41,,NewSpace Technologies & Services,,28,21,Pending,6.5,0,4,0,0,0,0,0,0,0,0,
+42,,Techno Electric & Engineering Co. Ltd.,,212,117,Offered,6,0,0,8,0,3,0,0,0,3,0,3
+43,,Chryso India- A Saint-Gobain Company,,20,11,Pending,5,0,0,0,0,0,0,0,0,0,0,0
+44,,Jindal Stainless Ltd.,,242,211,Pending,8,0,0,0,0,0,0,0,0,0,0,
+45,,Saint-Gobain India,,68,32,Pending,6.3,0,0,0,0,0,0,0,0,0,0,
+46,,Sedemac Mechatronics Ltd.,,143,128,Offered,16,0,0,2,0,2,0,0,0,0,0,
+47,,Tata Power Ltd.,,370,269,Pending,6.6,0,0,0,0,0,0,0,0,0,0,0
+48,,ICICI Bank,,420,348,Offered,11.4,3,1,2,3,2,0,2,0,0,0,
+49,,WSP (2),,46,24,Pending,6.75,0,0,0,0,0,0,0,0,0,0,
+50,,Schwing Stetter India Pvt. Ltd.,,3,2,Pending,5,0,0,0,0,0,0,0,0,0,0,
+51,,Rashmi Group,,262,96,Pending,6,0,0,0,0,0,0,0,0,0,0,
+52,,Aditya Birla Group,,262,229,Offered,7,0,0,0,0,5,0,0,5,0,2,
+53,,Tredence Analytics Solution Pvt. Ltd.,,179,132,Offered,9.9,0,0,0,2,0,0,2,0,0,0,
+54,,Reliance Power (Sasan Mines),,34,20,Pending,5,0,0,0,0,0,0,0,0,0,0,
+55,,Worley India Pvt. Ltd.,,170,**,Offered,5.8,0,0,0,0,0,0,0,0,0,3,
+56,,Linde India Ltd.,,101,80,Offered,9.5,0,0,1,0,1,0,0,1,0,0,
+57,,Tractors India Ltd.,,90,45,Pending,7,0,0,0,0,0,0,0,0,0,0,
+58,,FIITJEE Ltd.,,654,206,Pending,10.1-34,0,0,0,0,0,0,0,0,0,0,0
+59,,Hindustan Unilever Ltd.,,97,71,Completed,7,0,0,0,0,0,0,0,0,0,0,
+60,,Electrosteel Casting Ltd. (Srikalahasthi Works),,187,93,Offered,5.5,0,0,2,0,1,0,0,1,0,0,
+61,,Gulf Asia Engineering & Projects Pvt. Ltd.,,167,63,Pending,6.6,0,0,0,0,0,0,0,0,0,0,
+62,,ArcVac Forgecast Pvt. Ltd.,,148,110,Offered,6.7-5,0,0,2,0,3,0,0,3,0,3,
+63,,Tiger Analytics,,218,142,Offered,9,0,0,0,5,0,0,3,0,0,0,
+64,,Mageba Bridge Products Pvt. Ltd.,,72,44,Offered,4.9,0,0,0,0,0,0,0,0,3,0,
+65,,Tata Consulting Engineers (GET),,326,131,Offered,4.5,0,0,1,0,0,0,0,0,0,1,
+66,,Tata Consulting Engineers (PGET),,42,27,Offered,5,0,0,0,0,0,0,0,1,0,0,0
+67,,Tata BlueScope Steel Ltd.,,136,90,Offered,6.5,0,0,3,0,1,0,0,1,0,0,
+68,,HCL Technologies,,112,93,Offered,9.4,3,0,0,3,0,0,8,0,0,0,
+69,,Tega Industries Ltd.,,88,55,Offered,6.5,0,0,0,0,0,0,0,0,0,0,
+70,,Adani Group,,195,148,Offered,6.5,0,0,8,0,9,0,0,9,0,5,
+71,,JSW Group,,251,187,Offered,8,0,0,0,0,4,0,1,0,0,0,11
+72,,Tata Consultancy Services (INE Hiring UG),,390,210,Pending,9.08,0,0,0,0,0,0,0,0,0,0,0
+73,,Tata Consultancy Services (INE Hiring PG),,131,51,Pending,11.58,0,1,0,0,0,0,0,0,0,0,0
+74,,Jindal Power Ltd.,,137,111,Pending,8,0,0,0,0,0,0,0,0,0,0,
+75,,B&S Engineering Consultants Pvt. Ltd.,,14,10,Completed,6.2,0,0,0,0,0,0,0,0,0,0,
+76,,Titagarh Rail Systems Pvt. Ltd.,,231,101,Offered,5.5-7,0,3,2,0,3,0,0,0,3,0,
+77,,Nuvoco Vistas Corp. Ltd.,,68,42,Pending,6,0,0,0,0,0,0,0,0,0,0,
+78,,Tata Advance Systems Ltd.,,13,6,Pending,8,0,0,0,0,0,0,0,0,0,0,
+79,,OpenLM India Pvt. Ltd.,,67,23,Offered,10,1,0,0,0,0,0,0,0,0,0,
+80,,RDC Concrete (India) Pvt. Ltd.,,163,20,Completed,5,0,0,0,0,0,0,0,0,0,0,
+81,,Analinear Imaging Systems,,15,10,Pending,6,0,0,0,0,0,0,0,0,0,0,
+82,,Aantarik Technologies Pvt. Ltd.,,43,32,Offered,7.1,0,0,0,0,0,0,0,0,0,0,
+83,,Bharat Petroleum Corporation Ltd.,,7,7,Offered,20.1,0,0,3,0,2,0,0,6,0,0,
+84,,Alstom Transport India Ltd.,,32,26,Offered,6.8,0,0,0,0,0,0,0,0,2,0,
+85,,Mjunction Services Ltd.,,79,53,Offered,6.5,2,0,0,0,0,4,0,0,0,0,
+86,,STEAG Energy Services (India) Pvt. Ltd.,,74,16,Pending,5,0,0,0,0,0,0,0,0,0,0,
+87,,Zifo RnD Solutions,,38,21,Pending,4.78,0,0,0,0,0,0,0,0,0,0,
+88,,Recruit CRM,,16,10,Pending,6,0,0,0,0,0,0,0,0,0,0,
+89,,Rashmi Group (Mining),,27,23,Offered,4.8,0,0,0,0,0,0,0,0,0,0,
+90,,Essprom Consultants LLP,,178,50,Offered,4.8,3,2,1,2,0,0,2,0,0,0,
+91,,S. K. Samanta & Co. (P) Ltd.,,130,39,Offered,4.8,0,0,4,0,0,0,0,0,0,0,
+92,,OpenLM India Pvt. Ltd. (Consultant),,257,98,Offered,7.5,0,0,0,0,0,0,0,0,0,0,
+93,,Himadri Speciality Chemicals Ltd.,,130,92,Offered,7,0,0,2,0,3,0,0,3,0,3,
+94,,Serko India,,127,84,Offered,21.29,0,0,0,1,0,0,0,0,0,0,
+95,,Afcons Infrastructure Ltd,,143,49,Offered,4.2,0,0,0,0,0,0,0,0,0,1,
+96,,ITD Cementation India Ltd.,,68,49,Offered,5.95,0,0,0,0,0,0,0,0,0,0,5
+97,,Tata Consultancy Services (MBA Hiring),,15,12,Pending,5,0,0,0,0,0,0,0,0,0,0,
+98,,Tata Hitachi Construction Machinery Company Pvt. Ltd.,,25,20,Offered,6.5,0,0,0,0,2,0,0,0,0,0,
+99,,Engineers India Ltd. (PG),,15,12,Pending,19.25,0,0,0,0,0,0,0,0,0,0,0
+100,,Engineers India Ltd. (Management Trainee),,394,294,Pending,20.31,0,0,0,0,0,0,0,0,0,0,0
+101,,Jacobs,,145,69,Offered,5.6-1,0,0,0,0,0,0,0,0,0,0,
+102,,HDFC Life Insurance Company Ltd.,,16,**,Offered,4.75,0,0,0,0,0,0,0,0,0,0,
+103,,Kotak Life Insurance,,10,**,Pending,6.5,0,0,0,0,0,0,0,0,0,0,
+104,,UST,,82,61,Offered,9.8,0,0,0,1,0,0,1,0,0,0,
+105,,Arrise Solutions (India) Pvt. Ltd.,,109,63,Offered,6.5,2,1,0,1,0,0,0,0,0,0,
+106,,Halder Ventures Ltd.,,19,7,Pending,6,0,0,0,0,0,0,0,0,0,0,
+107,,Deloitte India,,295,205,Offered,7.6,0,0,0,2,0,0,2,0,0,0,
+108,,DineshChandra R. Agarwal Infracon Pvt. Ltd.,,101,51,Pending,4.79,0,0,0,0,0,0,0,0,0,0,0
+109,,Rudder Analytics,,242,90,Offered,5,0,1,0,0,0,0,0,0,0,0,0
+110,,Vedanta Ltd.,,18,18,Offered,9,0,0,0,0,0,0,0,0,0,0,
+111,,Nevaeh Technology Pvt. Ltd.,,240,117,Offered,7,0,0,0,1,0,0,1,0,0,0,0
+112,,Jindal Steel & Power Ltd.,,242,197,Pending,12,0,0,0,0,0,0,0,0,0,0,
+113,,SGX Minerals Pvt. Ltd.,,48,26,Pending,5.8-1,0,0,0,0,0,0,0,0,0,0,
+114,,Voith Paper Technology India Pvt. Ltd.,,10,4,Completed,5,0,0,0,0,0,0,0,0,0,0,
+115,,Tata Consultancy Services (NOT Hiring- Phase 2),,327,127,Pending,3.3-11.5,0,0,0,0,0,0,0,0,0,0,0
+116,,CGMP Projects Pvt. Ltd.,,42,11,Offered,5.6-1,0,0,2,0,2,0,0,0,3,0,
+117,,JMS Mining Pvt. Ltd.,,17,17,Offered,5.5,0,0,0,0,0,0,0,0,0,0,
+118,,Thermal Associates Pvt. Ltd.,,10,3,Pending,5,0,0,0,0,0,0,0,0,0,0,
+119,,Wells Fargo EGS,,198,138,Pending,24,0,0,0,0,0,0,0,0,0,0,
+120,,Nation with NaMo,,376,112,Offered,7.2,0,1,0,0,0,0,0,0,0,0,0
+121,,HashedIn Technology (By Deloitte),,72,47,Offered,8.1,0,1,0,0,0,0,0,0,0,0,
+122,,Pinnacle Infotech,,56,16,Offered,3.9,0,0,1,0,0,0,0,0,0,0,
+123,,Systra,,91,53,Offered,6.5,0,0,0,0,0,0,0,0,0,0,0
+124,,Capgemini,,145,88,Pending,10,0,0,0,0,0,0,0,0,0,0,
+125,,Cognizant (Cyber Security),,72,30,Pending,5.4,0,0,0,0,0,0,0,0,0,0,
+126,,STT Global Data Centres India Pvt Ltd,,37,17,Pending,10,0,0,0,0,0,0,0,0,0,0,
+127,,1,,74,40,Offered,6,0,0,1,0,0,0,0,1,0,1,
+128,,KPMG,,44,26,Pending,6,0,0,0,0,0,0,0,0,0,0,
+129,,SA Infrastructure Consultants Pvt. Ltd.,,64,40,Pending,6-7.9,0,0,0,0,0,0,0,0,0,0,1
+130,,Vikram Solar Ltd.,,52,33,Pending,7.5-8.5,0,0,0,0,0,0,0,0,0,0,
+131,,BTL EPC Limited,,82,31,Pending,7,0,0,0,0,0,0,0,0,0,0,
+132,,WTW Global Delivery Solution (NFR Engineer),,108,76,Pending,12,0,0,0,0,0,0,0,0,0,0,
+133,,WTW Global Delivery Solution (Analyst & TQA),,213,115,Pending,12,0,0,0,0,0,0,0,0,0,0,
+134,,GERB India,,13,7,Pending,,0,0,0,0,0,0,0,0,1,0,
+135,,Maity's,,6,3,,6,0,0,0,0,0,0,0,0,0,0,
+136,,ISM Dhanbad (Project Assistant),,,,,4.8,0,0,0,0,0,0,0,0,0,0,
+,,,,,,,,0,0,0,0,0,0,0,0,0,0,
