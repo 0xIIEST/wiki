@@ -36,16 +36,17 @@
 
 ### Companies
 
-- [Amazon India](https://www.amazon.in/)
+- [Amazon India](https://www.amazon.jobs/content/en/career-programs/university/internships-for-students/)
 - [NVIDIA](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite)  
-- [Dropbox](https://www.dropbox.com/jobs)  
-- [Twitter](https://about.twitter.com/careers/positions)  
-- [Jane Street Capital](https://www.janestreet.com/join-jane-street/internships/)  
-- [Palantir Technologies](https://www.palantir.com/college/internships/)  
-- [Slack](https://slack.com/jobs/70133/software-engineering-intern)  
-- [Google](https://www.google.com/careers)  
-- [Facebook](https://www.facebook.com/careers)  
-- [Quora](https://www.quora.com/careers/software_engineer_intern)   
+- [Dropbox](https://jobs.dropbox.com/teams/emerging-talent#open-positions)  
+- [Palantir Technologies](https://www.palantir.com/careers/students-and-early-talent/)  
+- [Slack](https://slack.com/careers/type/intern#openings)  
+- [Google](https://www.google.com/about/careers/applications/)  
+- [Meta](https://www.metacareers.com/careerprograms/students)  
+- [Quora](https://www.careers.quora.com/students)
+- [JP Morgan](https://careers.jpmorgan.com/global/en/students/programs)
+- [Goldman Sachs](https://www.goldmansachs.com/careers/students/programs-and-internships?1=gscom%3Aprogram-region-careers%2Findia)
+- [Morgan Stanley](https://www.morganstanley.com/people-opportunities/students-graduates)
 
 ### FOSS
 
@@ -63,11 +64,3 @@
 - [Max Plank Institute for Software Systems](https://www.mpi-sws.org/research-careers/#internships)
 - [Summer Internship on Cryptology at ISI K](https://www2.isical.ac.in/~rcbose/internship/)
 - [CERN Summer Internship Program](https://careers.cern/summer)
-
-## Financial Analyst Internships
-
-- [JP Morgan](https://www.jpmorganchase.com/careers)
-- [Goldman Sachs](https://www.goldmansachs.com/careers/students)
-- [Bank of America](https://careers.bankofamerica.com/en-us/students/campus-experience)
-- [Morgan Stanley](https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg)
-
