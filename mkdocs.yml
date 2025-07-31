@@ -1,30 +1,32 @@
 site_name: "IIEST Wiki"
 site_description: "A comprehensive knowledge base for study materials, AMAs, and placement statistics"
-site_author: "Campus Community"
+site_author: "Campus Community" 
 site_url: "https://wiki.0xiiest.org"
 
 nav:
   - Home: index.md
-  # - Study Materials:
-  #     - Courses:
-  #         - Computer Science: study/cs/index.md
-  #         - Mathematics: study/math/index.md
-  #         - Physics: study/physics/index.md
-  #         - Past Papers: study/past-papers.md
-  #         - Lecture Slides: study/lecture-slides.md
-  - Admission:
-      - UG: admission/ug.md
-  - Placement Statistics:
-      - 2025: placements/2025.md
+  - Contacts: contacts/index.md
+
+  - Academics:
+      - Internships: src/academics/internships/index.md
+      - Resources: src/academics/resources/index.md
+      - Scholarships: src/academics/scholarships/index.md
+
+  - Placements:
+      - Statistics:
+          - 2025: src/placements/stats/2025.md
+      - Guides: 
+          - Basics: src/placements/guides/index.md
+          - CSE: src/placements/guides/CSE.md
+          - ECEE: src/placements/guides/ECEE.md
   - AMAs:
       - 2025:
-          - Coming Soon: amas/2025-demo.md
-  - Contacts: contacts.md
+          - Coming Soon: src/amas/2025/soon.md
 
 theme:
   name: "material"
   # logo: "assets/images/logo.png"
-  favicon: "assets/images/logo.png"
+  # favicon: "assets/images/logo.png"
   language: "en"
   palette:
     - scheme: default
